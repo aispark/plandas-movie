@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/plandas-movie/static/css/main.479b8a3a.chunk.css",
+    "main.js": "/plandas-movie/static/js/main.6b1c4eee.chunk.js",
+    "main.js.map": "/plandas-movie/static/js/main.6b1c4eee.chunk.js.map",
+    "runtime-main.js": "/plandas-movie/static/js/runtime-main.c4c72d74.js",
+    "runtime-main.js.map": "/plandas-movie/static/js/runtime-main.c4c72d74.js.map",
+    "static/js/2.360b590f.chunk.js": "/plandas-movie/static/js/2.360b590f.chunk.js",
+    "static/js/2.360b590f.chunk.js.map": "/plandas-movie/static/js/2.360b590f.chunk.js.map",
+    "index.html": "/plandas-movie/index.html",
+    "precache-manifest.8de8ac9ac31e1f6bf3635f96ad012ff6.js": "/plandas-movie/precache-manifest.8de8ac9ac31e1f6bf3635f96ad012ff6.js",
+    "service-worker.js": "/plandas-movie/service-worker.js",
+    "static/css/main.479b8a3a.chunk.css.map": "/plandas-movie/static/css/main.479b8a3a.chunk.css.map"
+  }
+}
