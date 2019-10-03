@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73fc96cc86f2c84ce4a92cff95983517",
+    "revision": "639d67c1e64dfd1ae7761e817c0d8022",
     "url": "/plandas-movie/index.html"
   },
   {

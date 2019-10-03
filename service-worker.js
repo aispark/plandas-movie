@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/plandas-movie/precache-manifest.8de8ac9ac31e1f6bf3635f96ad012ff6.js"
+  "/plandas-movie/precache-manifest.d92f8b42fa9db5c993f46bb4112f3a58.js"
 );
 
 self.addEventListener('message', (event) => {
